@@ -32,7 +32,7 @@
 | 22 | family challenge app | [competitors] | added |
 | 23 | screen-free family activities app | [competitors] | added |
 | 24 | kids physical literacy app | [competitors] | added |
-| 25 | גמישות משחקי תנועה לילדים / משחקי תנועה הורה ילד | [competitors] | added – Hebrew search for Israeli players |
+| 25 | משחקי תנועה לילדים / משחקי תנועה הורה ילד | [competitors] | added – Hebrew search for Israeli players |
 | 26 | employee wellbeing family members | [competitors] [market] | seed |
 | 27 | family-inclusive wellness program | [competitors] [market] | seed |
 | 28 | working parents benefits | [competitors] [market] | seed |
@@ -40,7 +40,7 @@
 | 30 | employee step challenge app | [competitors] | added – product category |
 | 31 | רווחה לעובדים משפחה / רווחת עובדים הורים | [competitors] [market] | added – Hebrew search for Israeli providers |
 
-## Group 2 – Science, free-text terms (32)
+## Group 2 – Science, free-text terms (29)
 
 | # | Term | Tag | Source |
 |---|------|-----|--------|
