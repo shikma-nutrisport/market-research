@@ -6,7 +6,7 @@ Branch: claude/market-research-workflow-95ovvw
 | 2A מתחרים חלק 1 | done | 02-competitors/competitors-part1.md | 2026-11-03 |
 | 2B מתחרים חלק 2 + סיכום | done | 02-competitors/competitors-part2.md, 02-competitors/summary.md | 2026-11-03 |
 | 3 השוואה לעומק | done | 03-comparison/comparison.md | 2026-11-03 |
-| 4A מאמרים 1-6 | partial (2/6: Diamond_Lee_2011, Vazou_2016) | 04-papers/summaries/ | 2026-11-03 |
+| 4A מאמרים 1-6 | partial (3/6: Diamond_Lee_2011, Vazou_2016, Mao_2024) | 04-papers/summaries/ | 2026-11-03 |
 | 4B מאמרים 7-12 | not started | | |
 | 4C מאמרים חדשים | not started | | |
 | 4D טבלת ראיות ושורות תחתונות | not started | | |
