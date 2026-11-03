@@ -5,7 +5,7 @@ Branch: claude/market-research-workflow-95ovvw
 | 1 מילות חיפוש | done | 01-keywords/keywords.md | 2026-11-03 |
 | 2A מתחרים חלק 1 | done | 02-competitors/competitors-part1.md | 2026-11-03 |
 | 2B מתחרים חלק 2 + סיכום | done | 02-competitors/competitors-part2.md, 02-competitors/summary.md | 2026-11-03 |
-| 3 השוואה לעומק | not started | | |
+| 3 השוואה לעומק | done | 03-comparison/comparison.md | 2026-11-03 |
 | 4A מאמרים 1-6 | not started | | |
 | 4B מאמרים 7-12 | not started | | |
 | 4C מאמרים חדשים | not started | | |
@@ -19,3 +19,4 @@ Branch: claude/market-research-workflow-95ovvw
 - רשומת Family Move ב-EdUHK מחזירה 404. המאמר עצמו של HKU (Wong et al. 2020, BMC Public Health).
 - 2B: Personify Health, מדיניות בני משפחה וגיל מינימום: לא אומתה (דף התמיכה חוסם, כתבת MobiHealthNews חוסמת).
 - 2B: לא נמצא אתר רשמי של כנרת הפקות. Eloops ו-Beex לא נפתחו (502), ולכן לא נכללו.
+- 3: Kid Motion Coach הוחלף ב-YuMuuv (לא הושק, אין ביקורות). ל-Nex נמצאו רק 2 סקירות עצמאיות מ-2025-2026.
