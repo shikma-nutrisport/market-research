@@ -9,7 +9,7 @@ Branch: claude/market-research-workflow-95ovvw
 | 4A מאמרים 1-6 | done (Diamond_Lee_2011, Vazou_2016, Mao_2024, Schmidt_2016, Egger_2019, Benzing_2016) | 04-papers/summaries/ | 2026-11-03 |
 | 4B מאמרים 7-12 | done (Brown_2016, Flanders_2009, Loy_2013, Mavilidi_2025, Wong_2020_FamilyMove, Boolani_2023) | 04-papers/summaries/ | 2026-11-03 |
 | 4C מאמרים חדשים | done (9 מאמרים) | 04-papers/summaries/new-papers.md | 2026-11-03 |
-| 4D טבלת ראיות ושורות תחתונות | not started | | |
+| 4D טבלת ראיות ושורות תחתונות | done | 04-papers/evidence-table.md, 04-papers/bottom-lines.md | 2026-11-03 |
 | 5 סיכום מנהלים | not started | | |
 
 ## דורש תשומת לב / לא אומת
